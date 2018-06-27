@@ -1,21 +1,8 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-val10 = 0
-val21 = 1
-val31 = 2
-val31 = 3
-val41 = 4
-val51 = 5
-val61 = 6
-val71 = 7
+val1 = 0
+val2 = 1
+val3 = 2
+val3 = 3
+val4 = 4
+val5 = 5
+val6 = 6
+val7 = 7
