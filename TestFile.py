@@ -19,3 +19,5 @@ val41 = 4
 val51 = 5
 val61 = 6
 val71 = 7
+a = 10 + val10
+print("Merge")
